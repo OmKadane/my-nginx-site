@@ -2,9 +2,9 @@
 
 [![Nginx](https://img.shields.io/badge/powered%20by-Nginx-009639?style=flat&logo=nginx)](https://nginx.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/my-nginx-site)](https://github.com/your-username/my-nginx-site/issues)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/my-nginx-site)](https://github.com/your-username/my-nginx-site/stargazers)
-[![Repo Size](https://img.shields.io/github/repo-size/your-username/my-nginx-site)](https://github.com/your-username/my-nginx-site)
+[![GitHub issues](https://img.shields.io/github/issues/OmKadane/my-nginx-site)](https://github.com/OmKadane/my-nginx-site/issues)
+[![GitHub stars](https://img.shields.io/github/stars/OmKadane/my-nginx-site)](https://github.com/OmKadane/my-nginx-site/stargazers)
+[![Repo Size](https://img.shields.io/github/repo-size/OmKadane/my-nginx-site)](https://github.com/OmKadane/my-nginx-site)
 
 A professional static website designed to be served by an Nginx web server, with a deployment workflow powered by Git.
 
@@ -78,4 +78,4 @@ Make sure you have the following software installed on your server or local mach
 
 ## 📄 License
 
-Distributed under the MIT License. See [LICENSE]`LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
