@@ -14,7 +14,7 @@ A professional static website designed to be served by an Nginx web server, with
 
 ## 📋 Table of Contents
 
-1.  [About The Project(#%E2%84%B9%EF%B8%8F-about-the-project)
+1.  [About The Project](#%E2%84%B9%EF%B8%8F-about-the-project)
 2.  [Built With](#%EF%B8%8F-built-with)
 3.  [Getting Started](#-getting-started)
     * [Prerequisites](#prerequisites)
