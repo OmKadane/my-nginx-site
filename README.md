@@ -60,7 +60,7 @@ Make sure you have the following software installed on your server or local mach
 2.  **Clear the directory** to ensure no old files remain.
 3.  **Clone the repository** directly into your web root folder. Remember to add a `.` at the end of the command to clone into the current directory.
     ```sh
-    git clone [https://github.com/OmKadane/my-nginx-site.git](https://github.com/OmKadane/my-nginx-site.git) .
+    git clone https://github.com/OmKadane/my-nginx-site.git .
     ```
 4.  **Restart Nginx** to ensure the new site is served correctly.
 5.  Visit your server's IP address or `http://localhost` in a browser to see the live site.
